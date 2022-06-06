@@ -1,6 +1,6 @@
-
+package inheritance;
 package corejava_package;
-class withdraw
+public class DataAbstraction extends atm
 {
 	int amt_withdraw=2000;
 }

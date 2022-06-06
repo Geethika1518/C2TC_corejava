@@ -1,3 +1,4 @@
+package encapsulation;
 public class Day1_P1 {
 	int Year_of_pur;
 	String make;
